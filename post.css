@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+#title{
+
+    margin-left: 40%;
+    margin-top: 08%;
+}
+.post-app{
+    margin-top: 08%;
+    margin-left: 35%;
+    ;
+}
+#inpt, #discript{
+
+    padding: 6px;
+    font-size: 15px;
+    font-weight: 550;
+
+}
+#btn{
+
+    padding: 6px;
+
+}
+.editbtn{
+
+    padding: 6px;
+}
+
+.delbtn{
+    padding: 6px;
+    margin-left: 1%;
+}
+#post{
+
+    height: 300px
+
+}
+#mypic{
+    width: 40%;
+    height: 60%;
+
+}
